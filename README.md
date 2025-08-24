@@ -1,10 +1,11 @@
 # Jailbreak Distillation: Renewable Safety Benchmarking
+## In proceedings of EMNLP 2025 (Findings)
 
 ![](teaser.png)
 
-We are in the process of releasing the code &amp; artifacts of the paper "Jailbreak Distillation: Renewable Safety Benchmarking".
+We have released JBDistill-Bench, the resulting safety benchmarks from running Jailbreak Distillation! [[link]](https://github.com/microsoft/jailbreak-distillation/tree/main/jbdistill-bench)
 
-Stay Tuned! 
+We are in the process of releasing the code of the paper "Jailbreak Distillation: Renewable Safety Benchmarking". Stay Tuned! 
 
 
 ## Reference
