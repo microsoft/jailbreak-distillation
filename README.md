@@ -3,7 +3,11 @@
 
 ![](teaser.png)
 
-We have released JBDistill-Bench, the resulting safety benchmarks from running Jailbreak Distillation! [[link]](https://github.com/microsoft/jailbreak-distillation/tree/main/jbdistill-bench)
+We have released JBDistill-Bench, the resulting safety benchmarks from running Jailbreak Distillation!
+
+We provide the benchmark in two formats:
+- [[Harmbench format]](https://github.com/microsoft/jailbreak-distillation/tree/main/jbdistill-bench)
+- [[HF dataset]](https://huggingface.co/datasets/jackzhang/JBDistill-Bench)
 
 We are in the process of releasing the code of the paper "Jailbreak Distillation: Renewable Safety Benchmarking". Stay Tuned! 
 
